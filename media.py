@@ -1,5 +1,5 @@
-"""this modul is for constructing a class that defines the movies we're giving
-to the web page """
+"""this modul is for constructing a class that defines the specification of
+movies we're giving to the web page """
 
 import webbrowser
 
